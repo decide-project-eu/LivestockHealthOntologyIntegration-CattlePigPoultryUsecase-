@@ -17,11 +17,23 @@ Next, the notebook focuses on transforming the acquired data into RDF format, wh
 
 Once the data is converted into RDF, the notebook constructs a knowledge graph, representing the relationships between different entities such as samples, diseases, pathogen, and locations. This knowledge graph facilitates advanced querying and analysis, allowing users to extract valuable insights from the integrated data.
 
-The notebook also provides a set of SPARQL queries in step 5 tailored for poultry, pig, and cattle use cases. These queries enable users to retrieve specific information from the knowledge graph, and hows a comprehensive view of livestock health data in a multi-layered structure as shown below
+The notebook also provides a set of SPARQL query in step 5 tailored for poultry, pig, and cattle use cases. Theis query enable users to retrieve specific information from the knowledge graph, and shows a comprehensive view of livestock health data in a multi-layered structure as shown below
 
 ![Query](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/0ed960e3-d393-49bd-8acb-2b3072f0763c)
 
+![Result](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/e5e96cc3-4d7c-4993-a3f3-ee9954e67f9d)
 
-Furthermore, Tableau is used to create visualisation tools for each species. It's worth noting that the tool was initially implemented successfully for cattle case and then replicated for other species. 
+
+Furthermore, Tableau is used to create visualisation tools for each species. It's worth noting that the tool was initially implemented successfully for cattle case and then replicated for other species.It's worth noting that the tool was initially implemented successfully for cattle cases and then replicated for other species. The implementations for each species tool can be found in the DECIDE project's species case studies on GitHub at the following link: https://decide-project-eu.github.io/case-studies-website/. For Demostartion purpose following diagram show cattle and poultry berometer respectively.
+European Veterinary Barometer for Bovine Respiratory Diseases called Cattle Barometer
+
+![Cattle Barometer](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/8ed20c0b-2619-4f22-b56b-97c0a52fd5be)
+
+Broiler Baromater
+
+![Broiler Baromater](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/9b6ba778-9f7d-4334-aad1-af8ce9f5e0c6)
+
+Since it's under development and receiving new data, some errors and changes may be expected.
+
 
 Throughout the notebook, best practices for FAIR data management are emphasized, ensuring that the integrated data remains Findable, Accessible, Interoperable, and Reusable. Additionally, the use of ontologies and RDF enhances the Semantic richness of the data, enabling more advanced analysis and integration with other datasets in the future.
