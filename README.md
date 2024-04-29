@@ -17,7 +17,10 @@ Next, the notebook focuses on transforming the acquired data into RDF format, wh
 
 Once the data is converted into RDF, the notebook constructs a knowledge graph, representing the relationships between different entities such as samples, diseases, pathogen, and locations. This knowledge graph facilitates advanced querying and analysis, allowing users to extract valuable insights from the integrated data.
 
-The notebook also provides a set of SPARQL queries in step 5 tailored for poultry, pig, and cattle use cases. These queries enable users to retrieve specific information from the knowledge graph, and hows a comprehensive view of livestock health data in a multi-layered structure
+The notebook also provides a set of SPARQL queries in step 5 tailored for poultry, pig, and cattle use cases. These queries enable users to retrieve specific information from the knowledge graph, and hows a comprehensive view of livestock health data in a multi-layered structure as shown below
+
+![Query](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/0ed960e3-d393-49bd-8acb-2b3072f0763c)
+
 
 Furthermore, Tableau is used to create visualisation tools for each species. It's worth noting that the tool was initially implemented successfully for cattle case and then replicated for other species. 
 
