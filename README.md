@@ -11,7 +11,8 @@ In step 1 it acquiring data, covering various sources such as laboratory records
 
 Next, the notebook focuses on transforming the acquired data into RDF format, which enables interoperability and enhances data Reusability. This process involves mapping the data to a predefined ontology (available in the "ontology" folder), ensuring that it is Interoperable across different datasets and systems.the general view of ontology is shown below.
 
-![image](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/99c92d75-a8dd-4078-8590-5f74f6306076)
+![image](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/a172c45e-449f-4f3e-83c5-a90414b8db4c)
+
 
 
 Once the data is converted into RDF, the notebook constructs a knowledge graph, representing the relationships between different entities such as samples, diseases, pathogen, and locations. This knowledge graph facilitates advanced querying and analysis, allowing users to extract valuable insights from the integrated data.
