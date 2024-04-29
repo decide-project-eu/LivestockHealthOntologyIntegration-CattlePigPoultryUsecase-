@@ -19,7 +19,7 @@ Once the data is converted into RDF, the notebook constructs a knowledge graph, 
 
 ## Query Results
 
-The ["notebook "](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/blob/main/PigPoultryCattleUsecase.ipynb) also provides a set of SPARQL query in step 5 tailored for poultry, pig, and cattle use cases. Theis query enable users to retrieve specific information from the knowledge graph, and shows a comprehensive view of livestock health data in a multi-layered structure as shown below
+The [notebook](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/blob/main/PigPoultryCattleUsecase.ipynb) also provides a set of SPARQL query in step 5 tailored for poultry, pig, and cattle use cases. Theis query enable users to retrieve specific information from the knowledge graph, and shows a comprehensive view of livestock health data in a multi-layered structure as shown below
 
 ![Query](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/0ed960e3-d393-49bd-8acb-2b3072f0763c)
 
