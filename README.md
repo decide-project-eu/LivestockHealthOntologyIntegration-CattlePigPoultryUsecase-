@@ -17,6 +17,8 @@ Next, the notebook focuses on transforming the acquired data into RDF format, wh
 
 Once the data is converted into RDF, the notebook constructs a knowledge graph, representing the relationships between different entities such as samples, diseases, pathogen, and locations. This knowledge graph facilitates advanced querying and analysis, allowing users to extract valuable insights from the integrated data.
 
+## Query Results
+
 The notebook also provides a set of SPARQL query in step 5 tailored for poultry, pig, and cattle use cases. Theis query enable users to retrieve specific information from the knowledge graph, and shows a comprehensive view of livestock health data in a multi-layered structure as shown below
 
 ![Query](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/0ed960e3-d393-49bd-8acb-2b3072f0763c)
@@ -37,3 +39,10 @@ Since it's under development and receiving new data, some errors and changes may
 
 
 Throughout the notebook, best practices for FAIR data management are emphasized, ensuring that the integrated data remains Findable, Accessible, Interoperable, and Reusable. Additionally, the use of ontologies and RDF enhances the Semantic richness of the data, enabling more advanced analysis and integration with other datasets in the future.
+
+![Barometer colleborators](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/11ab0e61-37af-49ed-b492-b9eaab30a09d)
+
+
+
+
+
