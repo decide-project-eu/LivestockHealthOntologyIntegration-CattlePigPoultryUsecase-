@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:LHO="https://www.purl.org/decide/LiveStockHealthOnto/LHO#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#PM">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing a cattle breed of mixed meat and dairy type.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1PoultrySample_2">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PoultrySample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Poultry or Chiken.</rdfs:comment>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1"/>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#QX"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Limburg"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProductionStages rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1PoultrySample_4">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PoultrySample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Poultry or Chiken.</rdfs:comment>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1"/>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Mass"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Limburg"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProductionStages rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Mycoplasmahyopneumoniae">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing Pig pathogen.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab4PigSample_0">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PigSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Pig and Piglets.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Mycoplasmahyopneumoniae"/>
+    <LHO:hasBreed rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasDiagnosticTest rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR"/>
+    <LHO:hasCountry rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Spain"/>
+    <LHO:hasProvince rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Valencia"/>
+    <LHO:hasProductionStages rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Weaning"/>
+    <LHO:hasSampleType rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Tissue"/>
+    <LHO:hasDate rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#01/07/2020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1PoultrySample_1">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PoultrySample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Poultry or Chiken.</rdfs:comment>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1"/>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#QX"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Noord-Brabant"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProductionStages rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1PoultrySample_3">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PoultrySample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Poultry or Chiken.</rdfs:comment>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1"/>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#793B"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Limburg"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProductionStages rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#BAL">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#DiagnosticTest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1PoultrySample_5">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PoultrySample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Poultry or Chiken.</rdfs:comment>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1"/>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#QX"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Noord-Brabant"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProductionStages rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1CattleSample_0">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#CattleSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a cattle.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#PM"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasDiagnosticTest rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Gelderland"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Autopsy"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+    <LHO:hasLabReference rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2"/>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2018-01-01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1PoultrySample_0">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PoultrySample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Poultry or Chiken.</rdfs:comment>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1"/>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#QX"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Noord-Brabant"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProductionStages rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1CattleSample_1">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#CattleSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a cattle.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#BRSV"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Dairy"/>
+    <LHO:hasDiagnosticTest rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Culture"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Gelderland"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#BAL"/>
+    <LHO:hasResult rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+    <LHO:hasLabReference rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2"/>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2018-01-01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Broiler">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#ProductionStages"/>
+    <rdfs:comment xml:lang="en">An individual representing Productionstages of Poultry Data.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Spain">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25464"/>
+    <rdfs:label>Spain</rdfs:label>
+    <rdfs:comment xml:lang="en">An individual representing different Countries.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab4PigSample_1">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PigSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Pig and Piglets.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#SwineInfluenzaVirus"/>
+    <LHO:hasBreed rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasDiagnosticTest rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR"/>
+    <LHO:hasCountry rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Spain"/>
+    <LHO:hasProvince rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Valencia"/>
+    <LHO:hasProductionStages rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Weaning"/>
+    <LHO:hasSampleType rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Tissue"/>
+    <LHO:hasResult rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+    <LHO:hasDate rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#01/07/2020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#SwineInfluenzaVirus">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing Pig pathogen.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Tissue">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Madrid">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Province"/>
+    <rdfs:comment xml:lang="en">An individual representing different Province.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#793B">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing Polutry Pathogen.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab4PigSample_3">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PigSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Pig and Piglets.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#SwineInfluenzaVirus"/>
+    <LHO:hasBreed rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasDiagnosticTest rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR"/>
+    <LHO:hasCountry rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Spain"/>
+    <LHO:hasProvince rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Madrid"/>
+    <LHO:hasProductionStages rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Finishing"/>
+    <LHO:hasSampleType rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Tissue"/>
+    <LHO:hasResult rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+    <LHO:hasDate rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#01/07/2020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2014-Q1">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Date"/>
+    <rdfs:comment xml:lang="en">An individual representing a Particular Date.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Valencia">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Province"/>
+    <rdfs:comment xml:lang="en">An individual representing different Province.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab4PigSample_2">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PigSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a Pig and Piglets.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Mycoplasmahyopneumoniae"/>
+    <LHO:hasBreed rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat"/>
+    <LHO:hasDiagnosticTest rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR"/>
+    <LHO:hasCountry rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Spain"/>
+    <LHO:hasProvince rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Valencia"/>
+    <LHO:hasProductionStages rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Weaning"/>
+    <LHO:hasSampleType rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Tissue"/>
+    <LHO:hasResult rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#1"/>
+    <LHO:hasDate rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#01/07/2020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Mass">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing Polutry Pathogen.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#01/07/2020">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Date"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Limburg">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Province"/>
+    <rdfs:comment xml:lang="en">An individual representing different Province.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Dairy">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Breed"/>
+    <rdfs:comment xml:lang="en">An individual representing a cattle breed of mixed meat and dairy type.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Breed"/>
+    <rdfs:comment xml:lang="en">An individual representing a Piglet breed which is Meat.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#MH">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing a cattle breed of mixed meat and dairy type.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Lab1CattleSample_2">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#CattleSample"/>
+    <rdfs:comment xml:lang="en">An individual representing a sample from a cattle.</rdfs:comment>
+    <LHO:hasPathogen rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#MH"/>
+    <LHO:hasBreed rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Mixed"/>
+    <LHO:hasDiagnosticTest rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Culture"/>
+    <LHO:hasCountry rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands"/>
+    <LHO:hasProvince rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#North%20Brabant"/>
+    <LHO:hasSampleType rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SWAB"/>
+    <LHO:hasLabReference rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2"/>
+    <LHO:hasDate rdf:resource="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2018-01-01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Culture">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#DiagnosticTest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Meat">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Breed"/>
+    <rdfs:comment xml:lang="en">An individual representing Breed Type.</rdfs:comment>
+    <rdfs:comment xml:lang="en">An individual representing a cattle breed of mixed meat and dairy type.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Finishing">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PigProductionStages"/>
+    <rdfs:comment xml:lang="en">An individual representing Production stage .</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#North%20Brabant">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Province"/>
+    <rdfs:comment xml:lang="en">An individual representing different Province.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#TheNetherlands">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Country"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25464"/>
+    <rdfs:comment xml:lang="en">An individual representing Country.</rdfs:comment>
+    <rdfs:comment xml:lang="en">An individual representing different Countries.</rdfs:comment>
+    <rdfs:label>The Netherland</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#BRSV">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing a cattle breed of mixed meat and dairy type.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#QX">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Pathogen"/>
+    <rdfs:comment xml:lang="en">An individual representing Polutry Pathogen.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Gelderland">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Province"/>
+    <rdfs:comment xml:lang="en">An individual representing different Province.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Weaning">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PigProductionStages"/>
+    <rdfs:comment xml:lang="en">An individual representing Production stage .</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#1">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleResult"/>
+    <rdfs:comment xml:lang="en">An individual representing test result.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SWAB">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Noord-Brabant">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Province"/>
+    <rdfs:comment xml:lang="en">An individual representing different Province.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#SS">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleType"/>
+    <rdfs:comment xml:lang="en">An individual representing SampleType for Poultry.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.purl.org/decide/LiveStockHealthOnto/LHO#PCR">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#DiagnosticTest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Mixed">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Breed"/>
+    <rdfs:comment xml:lang="en">An individual representing a cattle breed of mixed meat and dairy type.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#Autopsy">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#1">
+    <rdf:type rdf:resource="http://www.purl.org/decide#SampleResult"/>
+    <rdfs:comment xml:lang="en">An individual representing pathogen result.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2018-01-01">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#Date"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.purl.org/decide/LiveStockHealthOnto/LHO#2">
+    <rdf:type rdf:resource="https://www.purl.org/decide/LiveStockHealthOnto/LHO#LabReference"/>
+  </rdf:Description>
+</rdf:RDF>

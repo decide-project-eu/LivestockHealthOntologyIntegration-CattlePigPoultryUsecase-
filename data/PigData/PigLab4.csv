@@ -1,0 +1,5 @@
+SampleNumber,Date,Province,Pathogen,Result,SampleType,DiagnosticTest,Country,Breed,Lab_Reference,PigStage
+1,01/07/2020,Valencia,Mycoplasmahyopneumoniae,0,Tissue,PCR,Spain,Meat,4,Weaning
+1,01/07/2020,Valencia,SwineInfluenzaVirus,1,Tissue,PCR,Spain,Meat,4,Weaning
+2,01/07/2020,Valencia,Mycoplasmahyopneumoniae,1,Tissue,PCR,Spain,Meat,4,Weaning
+2,01/07/2020,Madrid,SwineInfluenzaVirus,1,Tissue,PCR,Spain,Meat,4,Finishing

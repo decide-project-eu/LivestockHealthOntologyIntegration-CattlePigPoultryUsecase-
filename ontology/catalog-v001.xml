@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.purl.org/decide" uri="https://data.bioontology.org/ontologies/DECIDE/submissions/1/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1713182482808" name="https://www.purl.org/decide/LiveStockHealthOnto/LHO" uri="LivestockHealthOntology(LHO).rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1713182482808" name="shadowed:https://www.purl.org/decide/LiveStockHealthOnto/LHO" uri="orinalontology/LiveStockHealthOntology.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1713182482808" name="shadowed:https://www.purl.org/decide/LiveStockHealthOnto/LHO" uri="OntologyWith%20Individual/LiveStockHealthOntology.rdf"/>
+    </group>
+</catalog>
