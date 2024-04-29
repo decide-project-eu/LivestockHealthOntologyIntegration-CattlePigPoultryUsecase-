@@ -3,9 +3,16 @@ For demonstration purposes, a Python notebook with a small dataset of labs has b
 
 The notebook titled "PigPoultryCattleUsecase.ipynb" is a comprehensive guide to integrating and analyzing livestock health data for poultry, pig, and cattle, while adhering to FAIR principles and utilizing ontologies and RDF (Resource Description Framework).
 
-It begins with a step-by-step approach to acquiring data, covering various sources such as laboratory records, veterinary reports, and sensor data. The data acquisition process ensures that the data is Findable and Accessible by providing clear documentation on its sources and formats.
+It begans with step by step approach is shown below as shown below:
+![Figure 1: Ontology-Driven Knowledge-based Farm Animal Data Management (ODKFADM)](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/39035ac5-9406-4ba3-b305-05bde51a2d7e)
 
-Next, the notebook focuses on transforming the acquired data into RDF format, which enables interoperability and enhances data Reusability. This process involves mapping the data to a predefined ontology (available in the "ontology" folder), ensuring that it is Interoperable across different datasets and systems.
+
+In step 1 it acquiring data, covering various sources such as laboratory records, veterinary reports, and sensor data. The data acquisition process ensures that the data is Findable and Accessible by providing clear documentation on its sources and formats.
+
+Next, the notebook focuses on transforming the acquired data into RDF format, which enables interoperability and enhances data Reusability. This process involves mapping the data to a predefined ontology (available in the "ontology" folder), ensuring that it is Interoperable across different datasets and systems.the general view of ontology is shown below.
+
+![image](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/99c92d75-a8dd-4078-8590-5f74f6306076)
+
 
 Once the data is converted into RDF, the notebook constructs a knowledge graph, representing the relationships between different entities such as samples, diseases, pathogen, and locations. This knowledge graph facilitates advanced querying and analysis, allowing users to extract valuable insights from the integrated data.
 
