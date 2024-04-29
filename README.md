@@ -24,7 +24,7 @@ The notebook also provides a set of SPARQL query in step 5 tailored for poultry,
 ![Result](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/e5e96cc3-4d7c-4993-a3f3-ee9954e67f9d)
 
 
-Furthermore, Tableau is used to create visualisation tools for each species. It's worth noting that the tool was initially implemented successfully for cattle case and then replicated for other species.It's worth noting that the tool was initially implemented successfully for cattle cases and then replicated for other species. The implementations for each species tool can be found in the DECIDE project's species case studies on GitHub at the following link: https://decide-project-eu.github.io/case-studies-website/. For Demostartion purpose following diagram show cattle and poultry berometer respectively.
+Furthermore, Tableau is used to create visualisation tools for each species. It's worth noting that the tool was initially implemented successfully for cattle case and then replicated for other species.The implementations for each species tool can be found in the DECIDE project's species case studies on GitHub at the following link: https://decide-project-eu.github.io/case-studies-website/. For Demonstartion purpose following diagrams show cattle and poultry barometer respectively.
 European Veterinary Barometer for Bovine Respiratory Diseases called Cattle Barometer
 
 ![Cattle Barometer](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/8ed20c0b-2619-4f22-b56b-97c0a52fd5be)
