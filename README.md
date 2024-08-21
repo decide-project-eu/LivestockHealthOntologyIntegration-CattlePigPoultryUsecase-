@@ -1,5 +1,9 @@
 # LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-
+
+[![DOI](https://zenodo.org/badge/793473371.svg)](https://zenodo.org/doi/10.5281/zenodo.13354889)
+
 For demonstration purposes, a Python notebook with a small dataset of labs has been uploaded here. It provides a detailed guide to integrating and analyzing poultry, pig, and cattle health data while adhering to FAIR principles.
+
 
 The notebook titled ["PigPoultryCattleUsecase.ipynb"](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/blob/main/PigPoultryCattleUsecase.ipynb) is a comprehensive guide to integrating and analyzing livestock health data for poultry, pig, and cattle, while adhering to FAIR principles and utilizing ontologies and RDF (Resource Description Framework).
 
