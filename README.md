@@ -13,7 +13,9 @@ It begans with step by step approach is shown below as shown below:
 
 In step 1 it acquiring data, covering various sources such as laboratory records, veterinary reports, and sensor data. The data acquisition process ensures that the data is Findable and Accessible by providing clear documentation on its sources and formats.
 
-Next, the notebook focuses on transforming the acquired data into RDF format, which enables interoperability and enhances data Reusability. This process involves mapping the data to a predefined ontology (available in the "ontology" folder), ensuring that it is Interoperable across different datasets and systems.the general view of ontology is shown below.
+Next, the notebook focuses on transforming the acquired data into RDF format, which enables interoperability and enhances data Reusability. This process involves mapping the data to a predefined ontology (available in the "ontology" folder), ensuring that it is Interoperable across different datasets and systems.
+
+# The general view of ontology is shown below.
 
 ![image](https://github.com/decide-project-eu/LivestockHealthOntologyIntegration-CattlePigPoultryUsecase-/assets/126476000/a172c45e-449f-4f3e-83c5-a90414b8db4c)
 
